@@ -1,2 +1,0 @@
-# qyt-ceshidome
-ceshi
